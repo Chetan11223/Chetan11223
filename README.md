@@ -31,8 +31,8 @@
 
 <h2 align="center" style="color:#FF6F00;">📈 GitHub Stats & Achievements</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanERTash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanERTash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="200" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AryanERTash&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanERTash&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
 </p>
