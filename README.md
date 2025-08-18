@@ -1,4 +1,4 @@
-<!-- Animated, Dark-Themed, Stat-Rich Profile README for AryanERTash -->
+<!-- Animated, Dark-Themed, Stat-Rich Profile README for Chetan11223 -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF6F00&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Chetan+Yadav+%F0%9F%91%8B;Student+%7C+Freelancer+%7C+Math+Lover;Cloud+%7C+ML+%7C+Data+Science+Explorer;Let's+build+something+awesome+together+%F0%9F%92%A1" alt="Typing SVG">
