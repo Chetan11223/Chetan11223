@@ -1,75 +1,7 @@
-<!-- Animated, Dark-Themed, Stat-Rich Profile README for Chetan11223 -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF6F00&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Chetan+Yadav+%F0%9F%91%8B;Student+%7C+Freelancer+%7C+Math+Lover;Cloud+%7C+ML+%7C+Data+Science+Explorer;Let's+build+something+awesome+together+%F0%9F%92%A1" alt="Typing SVG">
 </p>
-
----
-
-<h2 align="center" style="color:#FF6F00;">🌑 About Me</h2>
-
-<p align="center">
-  <b>Student & Freelancer</b><br>
-  🚀 Passionate about <b>Math</b> and <b>Programming</b><br>
-  💡 Exploring <b>Machine Learning</b>, <b>Data Science</b>, and <b>Cloud</b><br>
-  🧑‍💻 Polyglot: Python, JavaScript, Java, C++, C, HTML, CSS<br>
-  🌃 Always learning and open to collaboration!
-</p>
-
----
-
-<h2 align="center" style="color:#FF6F00;">🛠️ Tech Stack & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,html,css,cloud,git,linux&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Data%20Science-4B8BBE?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center" style="color:#FF6F00;">📈 GitHub Stats & Achievements</h2>
-
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanERTash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="200" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AryanERTash&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanERTash&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AryanERTash&theme=discord&margin-w=10&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanERTash&theme=tokyo-night&hide_border=true" height="180" />
-</p>
-
----
-
-<h2 align="center" style="color:#FF6F00;">🌟 Fun Facts</h2>
-
-<ul>
-  <li>🧩 I love solving challenging math problems</li>
-  <li>💡 Always up for hackathons and coding competitions</li>
-  <li>🌍 Enjoy collaborating on open-source and community projects</li>
-</ul>
-
----
-
-<h2 align="center" style="color:#FF6F00;">📲 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetan-yadav-582491335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/chetan_rao9999?igsh=aDlncWUwODgzdWE0" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
+ <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80&auto=format&fit=crop" alt="Cover Banner - Developer Workspace" /> </p><h1 align="center">Chetan Yadav</h1> <h3 align="center">Frontend‑focused Full‑Stack Developer · India</h3><p align="center"> <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=chetan11223&label=Profile%20Views&color=0e75b6&style=flat-square&abbreviated=true" alt="Profile Views" /> </a> <a href="https://shields.io"> <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-0e75b6?style=flat-square&logo=github" alt="Open to Opportunities" /> </a> <a href="https://shields.io"> <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Full--Stack-6f42c1?style=flat-square" alt="Focus Areas" /> </a> </p><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chetan11223&theme=onedark&no-bg=true&no-frame=true&row=1&column=-1&margin-w=10&margin-h=10" alt="GitHub Trophies" /> </a> </p><p align="center"> <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" /> </p>
+<p> <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20HTML5%20%7C%20CSS3-0e75b6?style=flat-square&logo=react" alt="Frontend Stack" /> <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Spring%20Boot-6f42c1?style=flat-square&logo=node.js" alt="Backend Stack" /> <img src="https://img.shields.io/badge/Data-MongoDB%20%7C%20MySQL%20%7C%20MSSQL-2ea44f?style=flat-square&logo=mongodb" alt="Data Stack" /> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Firebase%20%7C%20Git-555?style=flat-square&logo=amazonaws" alt="Cloud & DevOps" /> </p> <p> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" /></a> <a href="https://devicon.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a> </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan11223&show_icons=true&layout=compact" alt="Top Languages" /> </p><p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chetan11223&show_icons=true" alt="GitHub Stats" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan11223" alt="GitHub Streak" /> </p>
+<p> <a href="https://linkedin.com/in/chetan-yadav-582491335" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /> </a> <a href="https://instagram.com/chetan_rao9999" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" /> </a> <a href="https://www.youtube.com/c/@chetanyadav9847" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube" /> </a> </p>
